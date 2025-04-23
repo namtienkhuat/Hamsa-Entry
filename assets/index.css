@@ -171,6 +171,7 @@ html {
     align-items: end;
     justify-content: space-between;
     position: relative;
+    top: -3px;
 }
 
 .home__intro-background {
